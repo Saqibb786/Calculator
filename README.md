@@ -2,7 +2,7 @@
 
 A modern, user-friendly calculator app for Android devices, developed in Java using Android Studio. This app provides basic arithmetic operations, percentage calculations, and additional features with a sleek and intuitive UI.
 
-![Gamehub Preview](./Calculator-thumbnail.jpg)
+<img src="./Calculator-thumbnail.jpg" alt="Calculator Preview" width="400" />
 
 ## Features
 
@@ -26,5 +26,13 @@ Follow these steps to run the app on your local machine:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/saqibb786/android-calculator.git
+   git clone https://github.com/saqibb786/calculator.git
    ```
+
+## Contributions
+
+Feel free to fork the repository, submit a pull request, or open an issue if you find bugs or have suggestions for improvements.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
